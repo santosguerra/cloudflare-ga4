@@ -1,10 +1,9 @@
-# Google analytics
+# Google Analytics 4
 
-Add google analytics to your website
+Add GA4 to your website
 
 ## Features
 
 Features
 1. Add google analytic to your website (free)
-2. Add difference tracker_id for mutiple sub-domain (pro)
 3. New feature request are always weclome
